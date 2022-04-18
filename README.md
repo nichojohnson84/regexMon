@@ -1,4 +1,4 @@
-# RegexMon 
+# Welcome2RegEx
 ### (a helpful gist to start understanding "regular expressions" or "regex" for short)
 
 The first time I looked at a regular expression I thought that it was anything but regular.  But as you learn about the meanings behind the symbols it starts to take shape.  I think of it in a similar way to a template that something needs to fit in.  Like on a form, if someone says "Enter email" you would know to enter an email. A person on the back end you would know that is where to look for the email.  But a computer needs a way to know if something matches the criteria of what you are supposed to have entered so it will use a regular expression to see if what was entered fits or matches. 
